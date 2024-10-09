@@ -13,7 +13,7 @@
   }
   
   .header-content {
-    margin-left: 3%;
+    margin-left: 20px;
     margin-right: 5%;
   }
   
@@ -56,13 +56,13 @@
     text-decoration: underline;
   }
 
-  #profile p,
-  #experience p,
-  #education p,
-  #projects p,
-  #hobbies p,
-  #certifications ol,
-  footer p {
+  #profile ,
+  #experience ,
+  #education ,
+  #projects ,
+  #hobbies ,
+  #certifications ul,
+  footer  {
     margin-bottom: 25px;
   }
   
@@ -112,7 +112,19 @@
     margin-top: 20px;
   }
 
-section{
-    margin: left 20px;
-    margin: right 20px;
-}
+  section{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  ul{
+    margin-left: 40px;
+  }
+
+  h3{
+    margin: 10px;
+  }
+
+  p{
+    margin-left: 5px;
+  }
